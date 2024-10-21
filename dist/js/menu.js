@@ -16,6 +16,7 @@ menuItem.forEach((item) => {
   });
 });
 
+
 function toggle() {
     menuBtn.classList.toggle("open");
     mainMenu.classList.toggle("open");
